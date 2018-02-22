@@ -3,6 +3,7 @@
 /tmp
 /out-tsc
 app.zip
+template.yml
 
 # IDEs and editors
 /.idea
